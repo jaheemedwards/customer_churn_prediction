@@ -145,13 +145,12 @@ plotly
 **Prediction Tab:**
 
 ![Prediction Tab](images/churnproj.png)
-("images/churn proj prediction.png")
+![Prediction](images/churn_proj_prediction.png)
 
 **Data Tab:**
 
-![Data Tab]("images/churn proj data table.png")
+![Data Tab](images/churn_proj_data_table.png)
 
----
 
 ## License
 
