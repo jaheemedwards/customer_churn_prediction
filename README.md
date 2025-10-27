@@ -145,11 +145,11 @@ plotly
 **Prediction Tab:**
 
 ![Prediction Tab](images/churnproj.png)
-![Prediction](images/churn proj prediction.png)
+("images/churn proj prediction.png")
 
 **Data Tab:**
 
-![Data Tab](images/churn proj data table.png)
+![Data Tab]("images/churn proj data table.png")
 
 ---
 
