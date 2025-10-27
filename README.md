@@ -8,6 +8,13 @@ The app is built with **Streamlit** for an interactive front-end, and the model 
 
 ---
 
+## 🚀 Live Demo
+
+Access the deployed Telco Customer Churn Prediction app here:  
+[https://customerchurnjaheemedwards.streamlit.app/](https://customerchurnjaheemedwards.streamlit.app/)
+
+---
+
 ## Features
 
 1. **Interactive Prediction**
